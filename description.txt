@@ -1,0 +1,21 @@
+Avengers: Terraria's Mightiest Heroes!
+
+Currently adds:
+Infinity Gauntlet accessory
+Infinity Stones (Currently dropped from EoC)
+
+Arc Reactor item
+Iron Man Armor
+
+All armors and items are using temporary textures and will be updated
+
+Planned:
+100+ MCU-themed items
+MCU Armor sets and Weapons
+Infinity Stone-themed Boss Fights
+
+Changelog:
+Updated helmet item sprite
+Changed Iron Man Armor recipe
+- now requires Adamantite Bars
+- lowered Adamantite Bar cost
